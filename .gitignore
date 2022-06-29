@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+scripts/ksmd
+node_modules/
+target/
+pkg/
+/esm-data
+__debug_bin
+output
+bin/ksmd
+main
+esmd
